@@ -1,5 +1,7 @@
 # Karabiner 单键切换输入法配置
 
+**在 Chavy 的基础上修改的 Readme**
+
 通过 短按 (⌘ | ⌥) 切换 中、英 输入法
 
 1. 短按 左 Command (⌘) 切换 ZH
@@ -56,4 +58,3 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 这样我只需要 `Caps` + `D` 就可以选词翻译了
 
-> 如果不需要，可以 remove 这个映射
